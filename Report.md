@@ -24,6 +24,10 @@ There are [certainly](https://patents.google.com/?q=child+car+alarm&oq=child+car
 
 ### Design, development, and production costs
 
+We believe a team of 2-3 engineers working with 2-3 software developers should be able to design this product in no more than a years time(likely overestimate). If we assume the annual pay for each is $100,000 then we can conclude the design/development costs will run at most $600,000, plus [40%](https://www.sba.gov/blog/how-much-does-employee-cost-you) for payroll taxes, benefits, etc bringing the total cost to $840,000. Also, we may be able to lower this cost if we can convince an engineering department at a University to lend their labor/knowledge. 
+
+[REX Plastics](https://rexplastics.com/plastic-injection-molds/how-much-do-plastic-injection-molds-cost), puts the typical cost of a plastic injection mold around $12,000 which is needed for the case. It is difficult to find a price for PCB assembly without sending out for a specific quote but [Candor](https://www.candorind.com/how-much-does-pcb-assembly-cost/) puts the average range between $10 to $50 dollars per. We assume this board to not be overly complicated or large so we will use $15. Final assembly will most likely add another few dollars to the cost.
+
 ### Cost to acquire each customer
 
 We plan to run ads through Facebook/Instagram, and Google services. According to [Blue Corona](https://www.bluecorona.com/blog/how-much-facebook-advertising-costs/), the cost of ads through facebook obviously varies. However, they indicate that the average cost per click(CPC), and cost per measure(CPM) are $0.51, $7.84 for E-Commerce, and $0.40, $9.66 for Technology industries. We will use the latter, as it is higher and add a safety factor of 1.5x and assume our cost to acquire each customer is about $15.
