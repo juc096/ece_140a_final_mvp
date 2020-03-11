@@ -26,7 +26,7 @@ There are [certainly](https://patents.google.com/?q=child+car+alarm&oq=child+car
 
 ### Cost to acquire each customer
 
-We plan to run ads through Facebook/Instagram, and Google services. According to [Blue Corona](https://www.bluecorona.com/blog/how-much-facebook-advertising-costs/), the cost of ads through facebook obviously varies. However, they indicate that the cost per click(CPC), and cost per measure(CPM) are $0.51, $7.84 for E-Commerce, and $0.40, $9.66 for Technology industries. We will use the latter, as it is higher and add a safety factor of 1.5x and assume our cost to acquire each customer is about $15.
+We plan to run ads through Facebook/Instagram, and Google services. According to [Blue Corona](https://www.bluecorona.com/blog/how-much-facebook-advertising-costs/), the cost of ads through facebook obviously varies. However, they indicate that the average cost per click(CPC), and cost per measure(CPM) are $0.51, $7.84 for E-Commerce, and $0.40, $9.66 for Technology industries. We will use the latter, as it is higher and add a safety factor of 1.5x and assume our cost to acquire each customer is about $15.
 
 ### Time to acquire each customer
 
