@@ -1,6 +1,7 @@
 # MVP Report
 
 ## Market Opportunity & Business Model Mad-lib
+
 **Don't Forget Yo Baby™** is a **For-profit** organization that serves **B2C** customers who need **assurance that their children are safe and not forgotten in vehicles**. We will generate revenue using a **Marginal-Return** revenue model.
 
 **Total market size (total sales for all products in this market)**  
