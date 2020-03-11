@@ -1,7 +1,7 @@
 # MVP Report
 
 ## Market Opportunity & Business Model Mad-lib
-**Business Name** is a **For-profit** organization that serves **B2C** customers who need **Job-to-be-done**. We will generate revenue using a **Rev-Type** revenue model.
+**Don't Forget Yo Baby™** is a **For-profit** organization that serves **B2C** customers who need **assurance that their children are safe and not forgotten in vehicles**. We will generate revenue using a **Marginal-Return** revenue model.
 
 **Total market size (total sales for all products in this market)**  
 Accorrding to the [CDC](https://www.cdc.gov/nchs/fastats/births.htm), there were 3,791,712 births in the United States in 2018. If every one bought a $50 to $100 product the total market size would hover around $185 to $380 million dollars per year.
