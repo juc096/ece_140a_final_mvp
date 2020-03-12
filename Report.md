@@ -12,7 +12,7 @@ According to the [CDC](https://www.cdc.gov/nchs/fastats/births.htm), there were 
 
 The [Pew Research Center](https://www.pewresearch.org/fact-tank/2018/05/04/more-than-a-million-millennials-are-becoming-moms-each-year/) states that more than 1 million Millennials are becomes new parents each year who are a part of the demographic most likely to be comfortable enough with technology to adopt our product. Therefore, the addressable market size is roughly $50 to $76 million dollars per year.
 
-### Barriers to entry if any (what stops you from competing... things such as existing patents)
+### Barriers to entry
 
 There are [certainly](https://patents.google.com/?q=child+car+alarm&oq=child+car+alarm) existing patents in this area. We will need to defer to a patent lawyer to ensure our product does not violate any existing patents.
 
@@ -24,9 +24,9 @@ There are [certainly](https://patents.google.com/?q=child+car+alarm&oq=child+car
 
 ### Design, development, and production costs
 
-We believe a team of 2-3 engineers working with 2-3 software developers should be able to design this product in no more than a years time(likely overestimate). If we assume the annual pay for each is $100,000 then we can conclude the design/development costs will run at most $600,000, plus [40%](https://www.sba.gov/blog/how-much-does-employee-cost-you) for payroll taxes, benefits, etc bringing the total cost to $840,000. Also, we may be able to lower this cost if we can convince an engineering department at a University to lend their labor/knowledge. 
+We believe a team of 2-3 engineers working with 2-3 software developers should be able to design this product in no more than a years time(likely overestimate). If we assume the annual pay for each is $100,000 then we can conclude the design/development costs will run at most $600,000, plus [40%](https://www.sba.gov/blog/how-much-does-employee-cost-you) for payroll taxes, benefits, etc bringing the total cost to $840,000. Also, we may be able to lower this cost if we can convince an engineering department at a University to lend their labor/knowledge.
 
-[REX Plastics](https://rexplastics.com/plastic-injection-molds/how-much-do-plastic-injection-molds-cost), puts the typical cost of a plastic injection mold around $12,000 which is needed for the case. It is difficult to find a price for PCB assembly without sending out for a specific quote but [Candor](https://www.candorind.com/how-much-does-pcb-assembly-cost/) puts the average range between $10 to $50 dollars per. We assume this board to not be overly complicated or large so we will use $15. Final assembly will most likely add another few dollars to the cost.
+[REX Plastics](https://rexplastics.com/plastic-injection-molds/how-much-do-plastic-injection-molds-cost), puts the typical cost of a plastic injection mold around $12,000 which is needed for the case. It is difficult to find a price for PCB assembly without sending out for a specific quote but [Candor](https://www.candorind.com/how-much-does-pcb-assembly-cost/) puts the average range between $10 to $50 dollars per. We assume this board to not be overly complicated or large so we will use $15. Final assembly will most likely add another few dollars to the cost of each unit.d
 
 ### Cost to acquire each customer
 
@@ -38,7 +38,11 @@ We imagine our ads will begin hitting each customer shortly after they get flagg
 
 ### Team size, and annual employment cost
 
+As discussed in the [Design, development, and production costs](#design-development-and-production-costs) we estimate a team size of 2-3 engineers, 2-3 software developers necessary for the product itself. Also we will need an accountant, and an attorney on retainer. The average salary of an accountant is around [$60,000](https://www.glassdoor.com/Salaries/san-diego-accountant-salary-SRCH_IL.0,9_IM758_KO10,20.htm) in San Diego. According to [some guy on Quora](https://www.quora.com/What-are-the-expected-legal-costs-for-a-startup-at-the-angel-and-Series-A-stages) $15,000 should be a good starting point for legal fees. Therefore, employment costs should hover around $1,000,000 annually (including taxes, benefits, etc..).
+
 ### Amount of revenue owed to other companies each time a product is sold
+
+We plan to have no dependencies on other companies that will require payment each time an individual unit is sold. However, we will need to defer to our patent lawyer to determine if any royalties would be owed to any potential patent conflicts.
 
 ### Margin on each unit sale
 
