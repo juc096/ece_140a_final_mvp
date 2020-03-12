@@ -26,7 +26,7 @@ There are [certainly](https://patents.google.com/?q=child+car+alarm&oq=child+car
 
 We believe a team of 2-3 engineers working with 2-3 software developers should be able to design this product in no more than a years time(likely overestimate). If we assume the annual pay for each is $100,000 then we can conclude the design/development costs will run at most $600,000, plus [40%](https://www.sba.gov/blog/how-much-does-employee-cost-you) for payroll taxes, benefits, etc bringing the total cost to $840,000. Also, we may be able to lower this cost if we can convince an engineering department at a University to lend their labor/knowledge.
 
-[REX Plastics](https://rexplastics.com/plastic-injection-molds/how-much-do-plastic-injection-molds-cost), puts the typical cost of a plastic injection mold around $12,000 which is needed for the case. It is difficult to find a price for PCB assembly without sending out for a specific quote but [Candor](https://www.candorind.com/how-much-does-pcb-assembly-cost/) puts the average range between $10 to $50 dollars per. We assume this board to not be overly complicated or large so we will use $15. Final assembly will most likely add another few dollars to the cost of each unit.d
+[REX Plastics](https://rexplastics.com/plastic-injection-molds/how-much-do-plastic-injection-molds-cost), puts the typical cost of a plastic injection mold around $12,000 which is needed for the case. It is difficult to find a price for PCB assembly without sending out for a specific quote but [Candor](https://www.candorind.com/how-much-does-pcb-assembly-cost/) puts the average range between $10 to $50 dollars per. We assume this board to not be overly complicated or large so we will use $15. Final assembly will most likely add another few dollars to the cost of each unit.
 
 ### Cost to acquire each customer
 
@@ -46,7 +46,11 @@ We plan to have no dependencies on other companies that will require payment eac
 
 ### Margin on each unit sale
 
+As discussed in the [Design, development, and production costs](#design-development-and-production-costs), we estimate the production cost of each unit to be $15 for the PCB, $1-3 for assembly, and $15 for each case molded via plastic injection. This puts the total cost around $35. If the product is sold for $50 to $100 our margins will range from 70% to 200% per unit.
+
 ### Revenue stream origins
+
+The revenue streams will originate from our targeted adds on the internet/social media. The adds will be targeted at those who show a potential of pregnancy.
 
 ## MVP Hypotheses
 
