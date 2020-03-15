@@ -18,6 +18,10 @@ There are [certainly](https://patents.google.com/?q=child+car+alarm&oq=child+car
 
 ## Personas
 
+1. Michelle is a manager at an auto insurance company in Chicago. She puts a lot of energy into her work. Due to this, most of her free time is spent at home with her family.
+
+2. Michael is a part time stay at home dad and part time soccer dad. He lives an active lifestyle in Sacramento. He spends his days shuttling children to and from school activities.
+
 ## Costumer Discovery – Interviews, Job Stories, and Journey Map
 
 ## Economics – Predicted Costs & Revenue Streams
@@ -50,7 +54,7 @@ As discussed in the [Design, development, and production costs](#design-developm
 
 ### Revenue stream origins
 
-The revenue streams will originate from our targeted adds on the internet/social media. The adds will be targeted at those who show a potential of pregnancy.
+The revenue streams will originate from our targeted adds on the internet/social media. The adds will be targeted at those who show a potential of pregnancy. In tandem, and perhaps more importantly, our revenue stream will originate from the innate desire for parents to protect their offspring.
 
 ## MVP Hypotheses
 
