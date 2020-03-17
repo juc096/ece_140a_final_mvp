@@ -22,7 +22,20 @@ There are [certainly](https://patents.google.com/?q=child+car+alarm&oq=child+car
 
 2. Michael is a part time stay at home dad and part time soccer dad. He lives an active lifestyle in Sacramento. He spends his days shuttling children to and from school activities.
 
+3. Daniel is a single man with his elderly father to take care of. Considering he has no additional assistance, it’s common for him to leave his father in the car while he shops for groceries or other errands. He is often worried about unexpected health concerns that may arise while he is away.
+
+4. Janice loves her cats and dogs, and would frequently adopt strays from the streets. Her primary concern is that there are times where she has to leave her pets in her car. She leaves the AC on, but she’s worried about the case where her AC might malfunction one day.
+
+The persona for our potential customers follow these four types.
+Type 1, the customer with no free time and energy due to work, and is afraid of an accidental mishap. 
+Type 2, the customer who has more time that can be dedicated towards their children. 
+Type 3, the customer that wants to better take care of their elderly family members, and/or disabled family members with specialty features.
+Type 4, the customer that wants to take care of their pets.
+
 ## Costumer Discovery – Interviews, Job Stories, and Journey Map
+
+Using these four types, we have cosntructed a Journey Map in response to our MVP.
+![Journey Map] (jmap.png)
 
 ## Economics – Predicted Costs & Revenue Streams
 
@@ -38,7 +51,8 @@ We plan to run ads through Facebook/Instagram, and Google services. According to
 
 ### Time to acquire each customer
 
-We imagine our ads will begin hitting each customer shortly after they get flagged as "potential pregnancy" through google ad words or facebook ads. As a result we believe the average time to acquire each customer will be around the length of a pregnancy, i.e. 9 months.
+We imagine our ads will begin hitting each customer shortly after they get flagged as "potential pregnancy" through google ad words or facebook ads. As a result we believe the average time to acquire each customer will be around the length of a pregnancy, i.e. 9 months. 
+We believe we will at most hit a 12 month acquisition length as this service is highly useful during throughout the summer seasons, especially in areas with hot weather.
 
 ### Team size, and annual employment cost
 
@@ -58,6 +72,34 @@ The revenue streams will originate from our targeted adds on the internet/social
 
 ## MVP Hypotheses
 
+We believe that the customers that are busy and tired from their day job, will use the Don't Forget Yo Baby service because it offers a peace of mind, an insurance policy in cases where they forget.
+
+We believe that the customers who have more time available for their children will also use the Don't Forget Yo Baby service as it offers additional protection, especially if these customers are new parents. 
+
+We believe that customers with elderly folk or people with disabilities to take care of will use the service as a means to remind the customer of their specialized health needs that may vary depending on air quality, temperature, etc. 
+
+We believe that customers with pets will use Don't Forget Yo Baby service as they serve as reminders for them to consider their pets safety and well-being. If they forget they left their pets in their car, it'll remind them of that. If they forget to turn on the AC for them, it'll also remind them of that.
+
 ## Key Metrics
 
+Key Metrics to use for these data are:
+1. Demographic data of our potential users (income, marital status, having-a-pet status, etc)
+2. Fatality rate of animals/infants in vehicles.
+3. Data by zone (weather, geography, local news); determine the relation between fatality rates, and different areas of America
+4. Measurements of internal temperature time of a car. How long it gets to heat that can cause death. Which time of day is most concerning. etc. 
+5. Data on cars. Price of gas if car sits idle. Determine how cars with sensors, temperature adjustors, etc, can better aid the Don't Forget Yo Baby service. 
+6. Market trend/business data on other baby-proofing technology.
+
 ## Features & Related RATs
+
+Some questions to ask:
+
+1. Parents, pet owners, and etc. caretakers are willing to pay for additional security for their loved ones, but at what cost will customers be turned off to buying our service?
+
+2. Are fatality rates high enough to the warrant concern? Is there a customer base large enough to warrant a creation of this product?
+
+We can address question one by analyzing the cost of other reminder apps and technology on the market. We can also create price estimates and survey potential customers about whether or not this price is something they are willing to pay for in order to use the service. This test can also address question 2, as the amount they're willing to pay is also an indicator to how worried they are about accidentally leaving their kids in their cars. 
+
+## Ethics
+
+We do realize that making a product of plastic is hardly ecofriendly, and the fact that our business relies on the fears of our customer base may result in a business model that may be exploitive and unethical. The intention behind the product is that Don't Forget Yo Baby is an answer to the concern parents, pet-owners, and caretakers of the elderly and disabled, might have to face in light of stories of tragic accidents of unattended victims. It's pivotal that a business like this does not fuel the fears with false advertising and fear mongering in order to keep the amount of customers high. The business is for-profit, yes, but profit is not the priority behind a product such as this.  
